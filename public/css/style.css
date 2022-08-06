@@ -373,8 +373,9 @@ header .intro-text {
   margin: 5px 0;
 }
 #team .team-img {
-  width: 240px;
-  border-radius: 100% 65%;
+  max-width: 240px;
+  max-height: 240px;
+  border-radius: 52% 47%;
 }
 #team .thumbnail {
   background: transparent;

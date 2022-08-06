@@ -135,10 +135,29 @@
     }
   ],
   "Team": [
-
+    {
+      "img": "img/team/1.jpg",
+      "job": "Security Researcher",
+      "name": "Yahav N, Hoffman"
+    },
+    {
+      "img": "img/team/4.jpg",
+      "job": "Cyber Analyst",
+      "name": "Dalila Grossman"
+    },
+    {
+      "img": "img/team/3.jpg",
+      "job": "Assets Manager",
+      "name": "Annie Rotchild"
+    },
+    {
+      "img": "img/team/2.jpg",
+      "job": "Cyber Operator",
+      "name": "Patrick J, Geoffry"
+    }
   ],
   "Contact": {
-    "address": "Israel, Caesarea ",
+    "address": "Israel, Caesarea",
     "phone": "+972 492 0275",
     "email": "info@anoxsysnetworks.com",
     "facebook": "https://www.facebook.com/AnoxsysNet",
